@@ -1,0 +1,8 @@
+openapi: "3.0.3"
+info:
+  title: "Ollama API"
+  description: "Ollama API"
+  version: "1.0.0"
+servers:
+- url: "https://Ollama"
+paths: {}
